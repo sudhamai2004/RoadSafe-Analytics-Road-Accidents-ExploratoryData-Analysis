@@ -72,7 +72,7 @@ Example:
 Determine whether accidents occur more on weekdays or weekends  and also Identify peak accident hours.
 
 
-2. Which states have the highest number of accidents?
+2.Which states have the highest number of accidents?
 
 Identify states with the highest accident frequency.
 
@@ -82,12 +82,12 @@ Identify states with the highest accident frequency.
 Analyze whether weather conditions such as rain or fog increase accident severity.
 
 
-4. How many vehicles are involved in accidents?
+4.How many vehicles are involved in accidents?
 
 Analyze the number of vehicles involved in accidents and its impact.
 
 
-5. How do weather conditions affect accident occurrence?
+5.How do weather conditions affect accident occurrence?
 
 Analyze accidents during:
 - Rain
@@ -96,7 +96,7 @@ Analyze accidents during:
 - Snow
 
 
-6. What are the most common vehicle types involved in accidents?
+6.What are the most common vehicle types involved in accidents?
 
 Identify which vehicle types are most frequently involved.
 
@@ -107,11 +107,12 @@ Examples:
 - Trucks
 
 
-7. What is the relationship between weather conditions and accident severity?
+7.What is the relationship between weather conditions and accident severity?
 
 Analyze whether rain or fog leads to more severe accidents.
 
 
-8. What months have the highest number of accidents?
-	Determine seasonal accident patterns
+8.What months have the highest number of accidents?
+
+Determine seasonal accident patterns
 
